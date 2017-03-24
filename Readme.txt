@@ -1,0 +1,1 @@
+Simple web project that include multiple POCs for different technologies.
